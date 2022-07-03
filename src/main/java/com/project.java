@@ -8,5 +8,6 @@ public class project {
         System.out.println("hello git4!");
         System.out.println("如果你看见了就合并成功啦 我是hot-fix");
         System.out.println("修改1");
+        System.out.println("pull 成功");
     }
 }
